@@ -1,7 +1,7 @@
-# omdmonitor
+# Docker OMD Monitor
 Automated build of OMD (Open Monitoring Distribution) for CentOS v6.7
 
-Docker OMD Monitor
+
 
 Operating System : CentOS6.7
 Environment : Production
